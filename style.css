@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: cadetblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 2px solid black;
+  border-radius: 12px;
+  background-color: white;
+  max-width: 350px;
+  padding: 24px 32px;
+}
+
+.escolhas {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.escolhas label:hover {
+  cursor: pointer;
+}
+
+input:hover {
+  border-radius: 50px;
+  border-color: steelblue;
+  background-color: springgreen;
+  cursor: pointer;
+}
+
+#confirmar {
+  margin: 15px 0 0;
+  align-self: center;
+  width: 70%;
+}
