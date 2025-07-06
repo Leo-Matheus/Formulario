@@ -1,6 +1,6 @@
 # Formulário de Inscrição
 
-Este projeto é um formulário de inscrição responsivo, desenvolvido durante o curso Joinville Mais Tech para estuudo de **HTML** e **CSS**.
+Este projeto é um formulário de inscrição responsivo, desenvolvido durante o curso Joinville Mais Tech para estudo de **HTML** e **CSS**.
 
 ## Funcionalidades
 
